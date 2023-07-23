@@ -209,14 +209,14 @@ transition: height 0.5sf;
 .layer p{
     font-family:'Quicksand',sans-serif ;
     padding: 5px;
-    size: 20px;
+    size: 18px;
 
 }
 .layer h3{
     font-family:'Quicksand',sans-serif ;
-   font-size: 30px;
-   /* padding: 12px; */
-   margin-bottom: 10px;
+   font-size:25px;
+   padding-top:20px;
+   margin-bottom: 8px;
     /* font-weight:500; */
 }
  .layer a{
